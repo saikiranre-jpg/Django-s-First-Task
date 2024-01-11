@@ -1,1 +1,1 @@
-# Django-s-First-Task
+Created a basic Django project to handle the incoming requests
